@@ -1,2 +1,1 @@
-# netflix-clone
-Netflix clone using React JS
+Repo for all major websites clones using ReactJs
